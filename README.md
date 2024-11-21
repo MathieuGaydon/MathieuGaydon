@@ -4,6 +4,7 @@
 />
 ## Hi there 👋
 Hello my names is Mathieu Gaydon i'm a 18 years old web development learner.
+
 ---
 ## About Me 😊
 1.📚 I like to learn a lot of things.
@@ -17,6 +18,7 @@ Hello my names is Mathieu Gaydon i'm a 18 years old web development learner.
 5.🏋️‍♀️ I'm doing some sport in my free time also
 
 ---
+
 ## Skills 🔧
 ![image](https://github.com/user-attachments/assets/6c08ab08-4a19-4d9a-95e5-1115d633fd8f)
 ![image](https://github.com/user-attachments/assets/2a248ba7-11bb-48b7-9ebb-914427c60ba9)
