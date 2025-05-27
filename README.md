@@ -30,7 +30,7 @@ const mathieu = {
   learning: ["Advanced React Patterns", "Modern CSS Techniques"],
   interests: ["Gaming 🎮", "Algorithms", "Open Source"],
   collaboration: "Always open to innovative web projects!",
-  coding_fuel: "Coffee ☕ + Spotify 🎵",
+  coding_fuel: "Spotify 🎵",
   fun_fact: "I can discuss video games and algorithms for hours"
 };
 ```
